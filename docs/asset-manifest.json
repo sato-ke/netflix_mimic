@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/netflix_mimic/static/css/main.073c9b0a.css",
+    "main.js": "/netflix_mimic/static/js/main.49e812c6.js",
+    "static/js/787.8facffb1.chunk.js": "/netflix_mimic/static/js/787.8facffb1.chunk.js",
+    "static/media/logo.svg": "/netflix_mimic/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/netflix_mimic/index.html",
+    "main.073c9b0a.css.map": "/netflix_mimic/static/css/main.073c9b0a.css.map",
+    "main.49e812c6.js.map": "/netflix_mimic/static/js/main.49e812c6.js.map",
+    "787.8facffb1.chunk.js.map": "/netflix_mimic/static/js/787.8facffb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.49e812c6.js"
+  ]
+}
